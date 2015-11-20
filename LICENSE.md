@@ -1,4 +1,4 @@
-## creative commons
+CC by-nc-sa by LosFuzzys
 
 # Attribution-NonCommercial-ShareAlike 4.0 International
 
